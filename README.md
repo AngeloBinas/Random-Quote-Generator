@@ -1,5 +1,5 @@
 # Random-Quote-Generator
 My group API project
 Team: 
-Angelo C. Biñas
+Angelo C. Biñas and
 Agustin A. Cordova
